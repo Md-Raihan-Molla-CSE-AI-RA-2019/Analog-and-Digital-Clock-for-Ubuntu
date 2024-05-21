@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon=/home/mdraihan/Desktop/OS project/analogue.png
+Exec= /home/mdraihan/Desktop/analogue_test.py
+Name=AnalogClockapt

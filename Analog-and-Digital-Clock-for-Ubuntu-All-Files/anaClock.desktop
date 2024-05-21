@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/mdraihan/Desktop/OS project/dgClock.png
+Exec=sh /home/mdraihan/Desktop/anaClock.sh
+Name=DigitalClockapt
